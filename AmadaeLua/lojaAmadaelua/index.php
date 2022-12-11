@@ -85,7 +85,7 @@ include('./Controller/Constantes.php')
         </div>
 
 <footer>
-    <p>Desenvolvido por   EAS&#174;
+   
 </p>
 </footer>
 
